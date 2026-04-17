@@ -1,0 +1,1 @@
+Admin login\nEmail: admin@test.com\nPassword: Admin@2025\nThis version opens admin dashboard directly from the normal login form.\n
